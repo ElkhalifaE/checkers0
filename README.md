@@ -12,3 +12,10 @@ How to run the game
 2. open the public folder
 3. right click the index.html file
 4. Open with (preferred browser)
+
+
+# nodejs commit
+
+Installed the node packages necessary for locally hosting
+the server on a computer that clones this repository.
+
