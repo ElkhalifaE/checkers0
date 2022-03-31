@@ -21,3 +21,10 @@ How to run the game
 the server on a computer that clones this repository.
 
 
+# Add gitignore commit
+
+- Heroku server ignores some npm packages
+- Deployed the project to a heroku cloud server,
+
+To run the game, click on the following link:
+https://evening-bastion-17940.herokuapp.com/
