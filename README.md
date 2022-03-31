@@ -8,6 +8,7 @@ Checker's limitations:
 
 
 How to run the game
-1. open the public folder
-2. right click the index.html file
-3. Open with (preferred browser)
+1. Download the code
+2. open the public folder
+3. right click the index.html file
+4. Open with (preferred browser)
