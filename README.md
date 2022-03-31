@@ -16,6 +16,8 @@ How to run the game
 
 # nodejs commit
 
-Installed the node packages necessary for locally hosting
+- Converted the repository from firebase deployment back to development mode.
+- Installed the node packages necessary for locally hosting
 the server on a computer that clones this repository.
+
 
