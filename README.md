@@ -4,7 +4,7 @@ This was a project I started developing before Spring break 2021.
 
 Checker's limitations:
 - No multijump
-- No server hosting
+- Lost access to the server that it was hosted on
 
 
 How to run the game
